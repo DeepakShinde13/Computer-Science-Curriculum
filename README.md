@@ -3,3 +3,4 @@
 1. Algorithms and data structures  
 	- Quick Sort  
 	- Insertion Sort
+	- Singly Linked List
