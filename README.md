@@ -4,3 +4,4 @@
 	- Quick Sort  
 	- Insertion Sort
 	- Singly Linked List
+	- Doubly Linked List
